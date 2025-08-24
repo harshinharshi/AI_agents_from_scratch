@@ -62,5 +62,3 @@ Ensure all environment variables are set as described in the accompanying reposi
 The Reflection Pattern, despite its simplicity, is remarkably effective in **enhancing the quality of LLM outputs** by enabling self-correction and iterative refinement.
 
 ---
-MAP
-![Maping the content](image/map.png)
