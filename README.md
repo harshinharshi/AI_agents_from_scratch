@@ -1,5 +1,5 @@
 # AI_agents_from_scratch
-![AI agent](image/Ai_agent.png)
+![AI agent](images\AI_agent.png)
 ---
 
 # Understanding Agents: The Fundamentals
