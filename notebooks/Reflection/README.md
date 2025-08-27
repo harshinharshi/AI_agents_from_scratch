@@ -1,5 +1,4 @@
 # 1. Reflection Pattern: When Agents Think Twice
-![Reflection AI Agent](images/reflection.png)
 ## Introduction
 This repository explores the **Reflection Pattern**, an Agentic Pattern introduced by Andrew Ng in his DeepLearning.ai series, which allows a Large Language Model (LLM) to evaluate and improve its own outputs. Despite being the simplest of the patterns, the Reflection Pattern provides **surprising performance gains** for LLM responses.
 
